@@ -26,3 +26,6 @@ git branch 新しいブランチの名前
 ブランチの切り替え
 git checkout ブランチの名前
 masterから切り替える
+
+
+変更した
